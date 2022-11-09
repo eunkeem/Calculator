@@ -14,11 +14,12 @@ A simple calculator app using Kotlin in Android Studio.
 	
 Development Environment
 -------------
-|구분|내용|
+|category|content|
 |---|------------------|
 |OS|Windows 10 Home|
-|Language|kotlin|
-|Editor|Android Studio|
+|Language|kotlin 213-1.7.20|
+|Editor|Android Studio 11.0.13|
 |Github|https://github.com/eunkeem/calculator|
 
+Run display
 ![simpleCalculator_record](https://user-images.githubusercontent.com/115531855/200110733-467662dd-9b9f-4462-b77b-271d389a06f1.gif)
